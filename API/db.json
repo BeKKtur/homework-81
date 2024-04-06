@@ -1,0 +1,31 @@
+[
+  {
+    "id": "7e782bcd-2dd4-4ca4-ba2c-95ee96f40f92",
+    "name": "War",
+    "content": "2",
+    "date": "2024-04-06T10:51:20.441Z",
+    "comments": [
+      {
+        "id": "e2147171-1abd-4c6f-b9e9-02ab39a24313",
+        "newsId": "7e782bcd-2dd4-4ca4-ba2c-95ee96f40f92",
+        "name": "EGw",
+        "author": "Anonymous",
+        "content": "wegweg"
+      },
+      {
+        "id": "795663d6-9ddd-403f-8292-571bcfaa51a3",
+        "newsId": "7e782bcd-2dd4-4ca4-ba2c-95ee96f40f92",
+        "name": "wegweg",
+        "author": "Anonymous",
+        "content": "wegweg"
+      },
+      {
+        "id": "9daa302f-cab5-4be5-85d1-3c1802002112",
+        "newsId": "7e782bcd-2dd4-4ca4-ba2c-95ee96f40f92",
+        "name": "23",
+        "author": "Anonymous",
+        "content": "234"
+      }
+    ]
+  }
+]
